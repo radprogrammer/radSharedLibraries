@@ -1,0 +1,9 @@
+[submodule "submodules/radFork-HashLib4Pascal"]
+	path = submodules/radFork-HashLib4Pascal
+	url = https://github.com/radprogrammer/radFork-HashLib4Pascal.git
+[submodule "submodules/radFork-SimpleBaseLib4Pascal"]
+	path = submodules/radFork-SimpleBaseLib4Pascal
+	url = https://github.com/radprogrammer/radFork-SimpleBaseLib4Pascal.git
+[submodule "submodules/radFork-CryptoLib4Pascal"]
+	path = submodules/radFork-CryptoLib4Pascal
+	url = https://github.com/radprogrammer/radFork-CryptoLib4Pascal.git
